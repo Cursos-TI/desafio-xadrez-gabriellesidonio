@@ -1,4 +1,4 @@
-**Desaio Xadrex**
+# Desafio Xadrez 
 
 Este projeto foi dividido em três níveis: Novato, Aventureiro e Mestre, cada um com desafios diferentes.
 
@@ -41,15 +41,15 @@ break e continue
 
 ## Como compilar e executar
 
-# Nível Novato
+## Nível Novato
 gcc XadrezNovato/x-nivelnovato.c -o nivelnovato
 ./nivelnovato
 
-# Nível Aventureiro
+## Nível Aventureiro
 gcc XadrezAventureiro/x-nivelaventureiro.c -o nivelaventureiro
 ./nivelaventureiro
 
-# Nível Mestre
+## Nível Mestre
 gcc XadrezMestre/x-nivelmestre.c -o nivelmestre
 ./nivelmestre
 
