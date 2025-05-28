@@ -72,4 +72,3 @@ Obs: É obrigatório o uso de loops aninhados na movimentação do bispo e funç
 
 Ao concluir este desafio, você terá um conhecimento mais profundo de estruturas complexas e elaboradas, amplamente utilizadas no mercado de trabalho. Boa sorte e boa programação!
 
-Equipe de Ensino - MateCheck
