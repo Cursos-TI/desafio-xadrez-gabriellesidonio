@@ -31,8 +31,6 @@ Cavalo: faz 1 movimento em L com dois for aninhados, usando continue e break par
 Cada peça tem sua função própria, bem separada, e o usuário informa a posição inicial para ver os movimentos acontecendo no terminal.
 
 ## Foram usados
-Linguagem C
-
 Estruturas de repetição: for, while, do-while
 Condições: if, else, switch.
 Funções recursivas
